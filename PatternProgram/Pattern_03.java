@@ -1,5 +1,5 @@
 package PatternProgram;
-/*	Output :-	A A A
+/*	Output :-	        A A A
 				B B
  				C			
 */ 
