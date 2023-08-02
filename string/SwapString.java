@@ -8,7 +8,7 @@ public class SwapString {
 
 		System.out.println(str1 + " " + str2);
 
-		// swapping without third variable
+		// Swap two Strings Without Using any Third Variable
 		str1 = str1 + str2;
 		str2 = str1.substring(0, str1.length() - str2.length());
 		str1 = str1.substring(str2.length());
