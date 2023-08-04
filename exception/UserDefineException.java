@@ -21,8 +21,7 @@ public class UserDefineException {
 		} catch (MyException ex) {
 			System.out.println("Caught");
 
-			// Print the message from MyException object
-			//System.out.println(ex.getMessage());
+			
 		}
 	}
 }
