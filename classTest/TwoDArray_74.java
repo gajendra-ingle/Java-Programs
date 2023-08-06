@@ -7,10 +7,10 @@ public class TwoDArray_74 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Enter the row size size :");
+		System.out.print("Enter the row size :");
 		int rSize = sc.nextInt();
 
-		System.out.print("Enter the column size size :");
+		System.out.print("Enter the column size :");
 		int cSize = sc.nextInt();
 
 		int a[][] = new int[rSize][cSize];
