@@ -1,8 +1,8 @@
 package PatternProgram;
 
 /*	Output :-	* * * 
-  				* * 
-  				*
+  		        * * 
+  			*
 */ 
 
 public class Pattern_13 {
