@@ -1,6 +1,6 @@
 package PatternProgram;
 
-/*	Output :-	* * * 
+/*	Output :-	        * * * 
   				  * * *
   				    * * *
 */ 
