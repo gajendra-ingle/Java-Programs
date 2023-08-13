@@ -9,6 +9,7 @@ public class RemoveDuplicateChar {
 		System.out.print("Enter the string:");
 		String str = sc.next();
 
+		// character array
 		char a[] = str.toCharArray();
 
 		// logic
