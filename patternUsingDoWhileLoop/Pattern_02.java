@@ -1,8 +1,8 @@
 package patternUsingDoWhileLoop;
 
 /*	Output :-	*
-				**
- 				***			
+			**
+ 			***			
 */ 
 
 public class Pattern_02 {
